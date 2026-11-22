@@ -1,9 +1,16 @@
 {
  "login": "abbishekrajh",
- "name": null,
- "total_contributions": 511,
+ "name": "Abbishek Rajh",
+ "total_contributions": 516,
  "public_repos": 5,
  "repos": [
+  {
+   "name": "16vc-portfolio-risk-monitor",
+   "description": null,
+   "stars": 0,
+   "language": null,
+   "url": "https://github.com/abbishekrajh/16vc-portfolio-risk-monitor"
+  },
   {
    "name": "abbishekrajh",
    "description": null,
@@ -17,13 +24,6 @@
    "stars": 0,
    "language": "Python",
    "url": "https://github.com/abbishekrajh/automated-data-cleaning-and-visualization"
-  },
-  {
-   "name": "16vc-portfolio-risk-monitor",
-   "description": null,
-   "stars": 0,
-   "language": null,
-   "url": "https://github.com/abbishekrajh/16vc-portfolio-risk-monitor"
   },
   {
    "name": "mstr-pbi-migration",
@@ -1495,11 +1495,11 @@
   },
   {
    "date": "2026-11-21",
-   "count": 0
+   "count": 1
   },
   {
    "date": "2026-11-22",
-   "count": 5
+   "count": 9
   }
  ]
 }
